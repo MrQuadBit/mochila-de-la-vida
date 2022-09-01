@@ -17,3 +17,8 @@ MOUNTAINS = "mountains"
 LOW = 1
 MEDIUM = 2
 HIGH = 3
+
+#Slots
+ONE = 1
+TWO = 2
+THREE = 3

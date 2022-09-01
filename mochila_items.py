@@ -33,119 +33,119 @@ ITEMS = [
 	},
 	{
 		"name":"Ropa",
-		"size":2,
+		"slots":2,
 		"weather":[RAINY, CLOUDY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":1
 	},
 	{
 		"name":"Encendedor",
-		"size":1,
+		"slots":1,
 		"weather":[CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Papel de baño",
-		"size":3,
+		"slots":3,
 		"weather":[CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Silbato",
-		"size":1,
+		"slots":1,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Documentos",
-		"size":1,
+		"slots":1,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":3
 	},
 	{
 		"name":"Llaves",
-		"size":1,
+		"slots":1,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":1
 	},
 	{
 		"name":"Botiquín de primeros auxilios",
-		"size":3,
+		"slots":3,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":3
 	},
 	{
 		"name":"Dinero",
-		"size":1,
+		"slots":1,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Directorio Telefónico",
-		"size":2,
+		"slots":2,
 		"weather":[CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Medicamentos",
-		"size":2,
+		"slots":2,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":3
 	},
 	{
 		"name":"Plumma y Libreta",
-		"size":2,
+		"slots":2,
 		"weather":[CLOUDY, SUNNY],
 		"location":[COAST,CENTER],
 		"priority":2
 	},
 	{
 		"name":"Cobija",
-		"size":2,
+		"slots":2,
 		"weather":[CLOUDY, SUNNY],
 		"location":[COAST,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Comida para mascota",
-		"size":1,
+		"slots":1,
 		"weather":[RAINY, CLOUDY, SUNNY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Protector solar",
-		"size":1,
+		"slots":1,
 		"weather":[SUNNY],
 		"location":[COAST,CENTER],
 		"priority":2
 	},
 	{
 		"name":"Cuchillo",
-		"size":1,
+		"slots":1,
 		"weather":[CLOUDY, SUNNY],
 		"location":[MOUNTAINS],
 		"priority":2
 	},
 	{
 		"name":"Celular",
-		"size":1,
+		"slots":1,
 		"weather":[SUNNY],
 		"location":[CENTER],
 		"priority":3
 	},
 	{
 		"name":"Paragüas",
-		"size":3,
+		"slots":3,
 		"weather":[RAINY],
 		"location":[COAST,CENTER,MOUNTAINS],
 		"priority":3

@@ -9,21 +9,21 @@ Ingresa las caracteristicas de la situación a simular
 y en base a ellas se te asiganará una 'Mochila De La Vida'
 Caracteristicas:"""
 size_text = """
-Tamaño de la mochila:
+¿De qué tamaño es tu mochila?:
 	-Chica   	( 1 )
 	-Mediana 	( 2 )
 	-Grande  	( 3 )
 """
 weather_text = """
-Clima:
+¿Cómo está el clima?:
 	-Lloviendo 	( 1 )
 	-Nublado   	( 2 )
 	-Soleado   	( 3 )
 """
 
 location_text = """
-Ubicación:
+¿Dónde estás ubicado?:
 	-Costa   	( 1 )
-	-Centro  	( 2 )
+	-CDMX	  	( 2 )
 	-Montaña 	( 3 )
 """
